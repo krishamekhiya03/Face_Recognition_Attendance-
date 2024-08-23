@@ -6,4 +6,4 @@ Take attendance of entire classroom using class camera,
 2. If someone tries to show an image instead of a real face then it should not be allowed 
 3. connect this with a real cctv camera to get live images and manage attendance based on live images.
 
-Technology: pyhton,pyqt5,face_recognition,NumPy,scipy,OpenCV,dlib,MySQL)
+Technology: pyhton,pyqt5,face_recognition,NumPy,scipy,OpenCV,dlib,MySQL
